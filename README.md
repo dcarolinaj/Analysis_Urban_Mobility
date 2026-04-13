@@ -3,7 +3,9 @@ Understanding how urban mobility (levels of congestion, travel times, delays) is
 
 # Business questions:
 🤔 Which cities in Latin America show high congestion and low economic productivity?
+
 🔍 Which ones show the best combined indicators (efficient mobility and strong economy)?
+
 🧐 Which variables seem to have a stronger relationship with urban development?
 
 # Tools
